@@ -1,0 +1,14 @@
+#number {
+  margin-top: 3em;
+  font-size: 10em;
+}
+
+.buttons {
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  font-size: 2em;
+  border-radius: 1em;
+  border-color: Black;
+  border-width: 10px;
+}
